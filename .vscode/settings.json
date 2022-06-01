@@ -1,0 +1,14 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\maliberti\\Downloads\\jakarta.activation-1.2.1.jar",
+            "c:\\Users\\maliberti\\Downloads\\jakarta.mail-2.0.1.jar",
+            "c:\\Users\\maliberti\\Downloads\\javax.mail-1.6.1.jar"
+        ],
+        "exclude": [
+            "c:\\Mateo\\Universidad\\OO2\\jakarta.activation-1.2.1.jar",
+            "c:\\Users\\mateo\\.m2\\repository\\com\\sun\\mail\\jakarta.mail\\1.6.4\\jakarta.mail-1.6.4.jar"
+        ]
+    }
+}
